@@ -1,0 +1,29 @@
+.btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px 41px;
+  background-color: $color-rustic-red;
+  border: 1px solid $color-fallow;
+  border-bottom-left-radius: 40px;
+  border-top-right-radius: 40px;
+  font-family: inherit;
+  font-size: 18px;
+  line-height: 26px;
+  color: $color-fallow;
+  outline: none;
+  cursor: pointer;
+  transition: 0.3s ease;
+
+  &:hover,
+  &:focus-visible {
+    background-color: $color-fallow;
+    color: $color-rustic-red;
+  }
+
+  @include vp-1023 {
+    padding: 14px 35px;
+    font-size: 14px;
+    line-height: 20px;
+  }
+}

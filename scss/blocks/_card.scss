@@ -1,0 +1,29 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  overflow: hidden;
+
+  &--bottom-rounded {
+    border-bottom-left-radius: 600px;
+    border-bottom-right-radius: 600px;
+  }
+
+  &--top-rounded {
+    border-top-left-radius: 600px;
+    border-top-right-radius: 600px;
+  }
+
+  &--secondary {
+    padding: 20px;
+    border-width: 1px 1px 0px 1px;
+    border-style: solid;
+    border-color: $color-fallow;
+
+    @include vp-767 {
+      padding: 10px;
+    }
+  }
+}

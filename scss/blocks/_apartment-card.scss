@@ -1,0 +1,68 @@
+.apartment-card {
+  height: 100%;
+
+  &__quality {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+    margin: 0;
+
+    @include vp-1023 {
+      gap: 20px;
+    }
+  }
+
+  &__text {
+    max-width: 80%;
+    font-family: $ff-tenor;
+    font-size: 20px;
+    line-height: 26px;
+    letter-spacing: -0.08em;
+    text-align: center;
+    text-transform: uppercase;
+    color: $color-fallow;
+
+    @media (max-width: 1200px) {
+      max-width: 100%;
+      font-size: 18px;
+      line-height: 22px;
+    }
+
+    @include vp-1023 {
+      font-size: 14px;
+      line-height: 18px;
+    }
+
+    @include vp-767 {
+      font-size: 12px;
+      line-height: 16px;
+    }
+
+    &--xl {
+      font-size: 140px;
+      line-height: 100px;
+      letter-spacing: -0.04em;
+
+      @media (max-width: 1200px) {
+        font-size: 110px;
+        line-height: 90px;
+      }
+
+      @include vp-1023 {
+        font-size: 90px;
+        line-height: 70px;
+      }
+
+      @include vp-767 {
+        font-size: 70px;
+        line-height: 50px;
+      }
+    }
+  }
+
+  &__picture,
+  &__image {
+    height: 100%;
+  }
+}
