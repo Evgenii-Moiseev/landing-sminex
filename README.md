@@ -18,13 +18,12 @@
 
 - Десктопная версия
 
-<img width="1024" height="6023" alt="landing-1" src="https://github.com/user-attachments/assets/829fb42c-d919-4ded-ab02-451d2812b408" />
+<img width="1003" height="1122" alt="image" src="https://github.com/user-attachments/assets/518efe27-7ef0-43a3-a542-a82979390258" />
+
 
 - Планшетная версия
 
-<img width="768" height="5040" alt="Планшетная версия страницы-презентации" src="https://github.com/user-attachments/assets/566447b7-9176-4a1a-9edf-ccf5c64b42b6" />
 
 - Мобильная версия
 
-<img width="375" height="5509" alt="Мобильная версия страницы-презентации" src="https://github.com/user-attachments/assets/048ffcd7-70b4-487a-8bd2-3521b79a9fdb" />
 
