@@ -20,6 +20,10 @@
 
 <img width="1728" height="7413" alt="Десктопная версия страницы-презентации" src="https://github.com/user-attachments/assets/75ac52b6-dda3-4b79-bc62-6d08d315f5be" />
 
+
+<img width="1024" height="6023" alt="landing-1" src="https://github.com/user-attachments/assets/829fb42c-d919-4ded-ab02-451d2812b408" />
+
+
 - Планшетная версия
 
 <img width="768" height="5040" alt="Планшетная версия страницы-презентации" src="https://github.com/user-attachments/assets/566447b7-9176-4a1a-9edf-ccf5c64b42b6" />
