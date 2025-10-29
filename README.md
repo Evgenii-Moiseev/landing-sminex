@@ -22,6 +22,3 @@
 <img width="1005" height="865" alt="Разделы banner и benefits" src="https://github.com/user-attachments/assets/6fe50f17-6b42-41bc-bbcc-fbc2f4174feb" />
 <img width="1005" height="1072" alt="Разделы yard-park и styles" src="https://github.com/user-attachments/assets/7e415b8d-4f42-446d-be4d-5ffb36befc11" />
 <img width="1005" height="904" alt="Разделы apartments, banner и footer" src="https://github.com/user-attachments/assets/020501fd-babf-4f3d-810b-a8c0f55af54a" />
-
-
-
